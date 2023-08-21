@@ -8,7 +8,7 @@ Name of game/artwork: Delta Pilot (Data wing)
   option on fly their delta through a confined course to get to a finish line under a certain amount of time. There will be 3 levers,
   Easy, medium, and hard. )
 - New Vision - ( The game that I have made is the 2D Version of “Data Wing” and has the same option of flying their rocket through a 
-  confined course to get to a finish line under a certain amount of time. With the completion version having 3 levers, Easy, medium, 
+  confined course to get to a finish line under a certain amount of time. With the completion version having 3 levels, Easy, medium, 
   and hard. )
 
 **Achievement**
@@ -18,8 +18,9 @@ Name of game/artwork: Delta Pilot (Data wing)
 
 **Screenshots of the Application**
 
-<img width="200" alt="image" src="https://github.com/neerajpatel1234/Space-Prism/assets/114114241/43aa33b3-476f-4bfc-8eaa-38d7552fcc84">
-<img width="200" alt="image" src="https://github.com/neerajpatel1234/Space-Prism/assets/114114241/aece30d0-7f1b-4314-9585-2355bbafaedf">
+- <img width="200" alt="image" src="https://github.com/neerajpatel1234/Space-Prism/assets/114114241/d4feb923-a03d-41ab-a8c4-8759f4e5c57d">
+- <img width="200" alt="image" src="https://github.com/neerajpatel1234/Space-Prism/assets/114114241/43aa33b3-476f-4bfc-8eaa-38d7552fcc84">
+- <img width="200" alt="image" src="https://github.com/neerajpatel1234/Space-Prism/assets/114114241/aece30d0-7f1b-4314-9585-2355bbafaedf">
 
 
 **Technical Challenges**
