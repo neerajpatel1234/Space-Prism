@@ -14,7 +14,12 @@ Name of game/artwork: Delta Pilot (Data wing)
 **Achievement**
 - I was able to achieve all of the fundamental goals that I set out. Which was having the user be able to control a ship that 
   will only accelerate in the direction that it is facing when the accelerate button is pressed. With a working game, you are able to 
-  play and win.  
+  play and win.
+
+**Screenshots of the Application**
+<img width="595" alt="image" src="https://github.com/neerajpatel1234/Space-Prism/assets/114114241/43aa33b3-476f-4bfc-8eaa-38d7552fcc84">
+<img width="595" alt="image" src="https://github.com/neerajpatel1234/Space-Prism/assets/114114241/aece30d0-7f1b-4314-9585-2355bbafaedf">
+
 
 **Technical Challenges**
 - One of the major challenges that I faced was having the game go through different levels when the player wins. I was able to achieve 
