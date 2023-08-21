@@ -17,8 +17,9 @@ Name of game/artwork: Delta Pilot (Data wing)
   play and win.
 
 **Screenshots of the Application**
-<img width="595" alt="image" src="https://github.com/neerajpatel1234/Space-Prism/assets/114114241/43aa33b3-476f-4bfc-8eaa-38d7552fcc84">
-<img width="595" alt="image" src="https://github.com/neerajpatel1234/Space-Prism/assets/114114241/aece30d0-7f1b-4314-9585-2355bbafaedf">
+
+<img width="200" alt="image" src="https://github.com/neerajpatel1234/Space-Prism/assets/114114241/43aa33b3-476f-4bfc-8eaa-38d7552fcc84">
+<img width="200" alt="image" src="https://github.com/neerajpatel1234/Space-Prism/assets/114114241/aece30d0-7f1b-4314-9585-2355bbafaedf">
 
 
 **Technical Challenges**
