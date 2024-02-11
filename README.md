@@ -1,6 +1,6 @@
 # Space-Prism (Delta Pilot)
 
-**Vision**
+## Vision
 - Plan vision - ( The game will be very similar to the mobile game called “Data Wing” where the user will have the 
   option to fly their delta through a confined course to get to a finish line under a certain amount of time. There will be 3 levers,
   Easy, medium, and hard. )
@@ -8,18 +8,18 @@
   confined course to get to a finish line under a certain amount of time. The completion version having 3 levels, Easy, medium, 
   and hard. )
 
-**Achievement**
+## Achievement
 - I was able to achieve all of the fundamental goals that I set out. Which was having the user be able to control a ship that 
   will only accelerate in the direction that it is facing when the accelerate button is pressed. With a working game, you can 
   play and win.
 
-**Screenshots of the Application**
+## Screenshots of the Application
 
 - <img width="650" alt="image" src="https://github.com/neerajpatel1234/Space-Prism/assets/114114241/d4feb923-a03d-41ab-a8c4-8759f4e5c57d">
 - <img width="300" alt="image" src="https://github.com/neerajpatel1234/Space-Prism/assets/114114241/43aa33b3-476f-4bfc-8eaa-38d7552fcc84">   <img width="300" alt="image" src="https://github.com/neerajpatel1234/Space-Prism/assets/114114241/aece30d0-7f1b-4314-9585-2355bbafaedf">
 
 
-**Technical Challenges**
+## Technical Challenges
 - One of the major challenges that I faced was having the game go through different levels when the player wins. I was able to achieve 
   this by using an enum, as I did for the player state. Having different enums for the easy, medium, and hard levels. 
   Beginning with easy then when level equals easy it will draw easy. Then when player y is at the finish line and the time is less than 10,
@@ -30,7 +30,7 @@
   would not work on certain occasions as it would skip certain frames. This is why I had to do the fallback code which was just individual 
   collision detection. 
 
-**Reflection**
+## Reflection
 - The game that I had initially aspired to create was significantly more challenging than I had originally expected. 
   As always, the fundamental movements of the game with rotations and consistent acceleration did not work too well with the 8-bit 
   frame rate which I wanted to make. But other than the game having to be a simplified version of the vision. I have still achieved most 
