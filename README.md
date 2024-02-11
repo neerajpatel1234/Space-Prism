@@ -1,7 +1,4 @@
-# Space-Prism
-
-Student name: Neeraj Patel
-Name of game/artwork: Delta Pilot (Data wing)
+# Space-Prism (Delta Pilot)
 
 **Vision**
 - Plan vision - ( The game will be very similar to the mobile game called “Data Wing” where the user will have the 
